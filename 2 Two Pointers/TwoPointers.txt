@@ -1,0 +1,5 @@
+Two pointer Technique has basically two(2) Models
+    - 1. Model1 --> Moves in Opposite Direction
+       -Without sorting this technique will not work
+
+    - 2. Model2 --> Moves in Same Direction
