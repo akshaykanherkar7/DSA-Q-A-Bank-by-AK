@@ -1,0 +1,7 @@
+Sliding Window has 2 Models :-
+
+- Model1. --> Fixed Size S.W
+        - In Quetion itself they give the size of window.
+- Model2. --> Varieble Sized S.W
+        - Size is Not given in Quetion. we need to find the size of window
+        - Formula ->(ens-start+1)
