@@ -52,7 +52,7 @@ let GS = (ans, ind, arr, k) => {
   }
 };
 
-if (process.env.USERNAME === "Akshay H. Kanherkar") {
+if (process.env.USERNAME === "Akshay Kanherkar") {
   runProgram(`4 10
   1 2 3 4`);
 } else {
