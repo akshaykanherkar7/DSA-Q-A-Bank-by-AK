@@ -35,15 +35,15 @@ const LinkedListNode = class {
 // Complete the function below
 
 function reverse(head) {
+  let prev = null; 
   let curr = head;
-  let prev = null;
-  let future = null;
+  let next = null;
 
   while (curr !== null) {
-    future = curr.next;
+    next = curr.next;
     curr.next = prev;
     prev = curr;
-    curr = future;
+    curr = next;
   }
 
   return (head = prev);
