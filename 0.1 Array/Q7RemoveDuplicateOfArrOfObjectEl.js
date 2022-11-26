@@ -15,6 +15,7 @@ for (let i = 0; i < arr.length; i++) {
     obj[val]++;
   }
 }
+//Interview Q
 
 let ans = [];
 for (let key in obj) {
