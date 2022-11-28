@@ -23,6 +23,7 @@ function smaller(N, arr) {
   }
   console.log(ans.join(" "));
 }
+//LeftSmaller
 
 if (process.env.USERNAME === "Akshay Kanherkar") {
   runProgram(`8
